@@ -1,6 +1,6 @@
 # Evgeny-Novosyolov
 
-1.https://evgeny-novosyolov.github.io/Bino/build/
+1.https://evgeny-novosyolov.github.io/Startuply/build/
 
 2.https://evgeny-novosyolov.github.io/Bino/build/
 
