@@ -10,7 +10,5 @@
 
 5.https://evgeny-novosyolov.github.io/Cinema/build/
 
-6b686c18943bd183ee52a556b4688691cadbb109
-
 
 
