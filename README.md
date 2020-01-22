@@ -1,8 +1,7 @@
 # Evgeny-Novosyolov
 
 1.https://shop-c50c9.firebaseapp.com/
-  
-  https://github.com/Evgeny-Novosyolov/Shop
+https://github.com/Evgeny-Novosyolov/Shop
  
 2.https://evgeny-novosyolov.github.io/Startuply/build/
 
