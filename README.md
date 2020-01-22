@@ -2,7 +2,7 @@
 
 1.https://shop-c50c9.firebaseapp.com/
   
-  https://github.com/Evgeny-Novosyolov/Shop
+1.1.https://github.com/Evgeny-Novosyolov/Shop
  
 2.https://evgeny-novosyolov.github.io/Startuply/build/
 
