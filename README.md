@@ -1,6 +1,6 @@
 # Evgeny-Novosyolov
 
-1.https://shop-c50c9.firebaseapp.com/
+1.https://shop-c50c9.firebaseapp.com
   
 1.1.https://github.com/Evgeny-Novosyolov/Shop
  
