@@ -1,8 +1,11 @@
 # Evgeny-Novosyolov
+1.https://news-10516.firebaseapp.com
 
-1.https://shop-c50c9.firebaseapp.com
+1.1.https://github.com/Evgeny-Novosyolov/News
+
+2.https://shop-c50c9.firebaseapp.com
   
-1.1.https://github.com/Evgeny-Novosyolov/Shop
+2.1.https://github.com/Evgeny-Novosyolov/Shop
  
 2.https://evgeny-novosyolov.github.io/Startuply/build/
 
