@@ -2,7 +2,7 @@
 
 1.https://fir-api-dc54d.firebaseapp.com/
 
-1.1.https://github.com/Evgeny-Novosyolov/api
+1.1.https://github.com/Evgeny-Novosyolov/Api
 
 2.https://news-10516.firebaseapp.com
 
