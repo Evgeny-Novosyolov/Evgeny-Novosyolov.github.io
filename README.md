@@ -10,7 +10,7 @@
 
 3.https://shop-c50c9.firebaseapp.com
   
-4.1.https://github.com/Evgeny-Novosyolov/Shop
+3.1.https://github.com/Evgeny-Novosyolov/Shop
  
 4.https://evgeny-novosyolov.github.io/Startuply/build/
 
